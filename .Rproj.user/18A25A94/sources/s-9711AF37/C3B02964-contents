@@ -1,0 +1,12 @@
+1+1
+- matrix(c(1, 2, 3, 4, 5, 6, 7, 8), nrow = 4, ncol = 2)
+- matrix(c(1, 2, 3, 4, 5, 6, 7, 8), nrow = 4, ncol = 2)
+install.pakeges("KernSmooth")
+install.pakages("KernSmooth")
+install.packages("KernSmooth")
+library("KernSmooth")
+install_github("devtools")
+> install.github("devtools")
+install.packages("devtools")
+library("devtools")
+example <- matrix(c(1, 2, 3, 4, 5, 6, 7, 8), nrow = 4, ncol = 2)
